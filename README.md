@@ -242,42 +242,6 @@ cd contracts && ./build.sh
 
 ---
 
-## 🚀 Deployment to Stellar Testnet
-
-FreelanceFlow is already configured for Stellar Testnet and ready to deploy!
-
-### Quick Deploy Options
-
-#### Option 1: Netlify (Recommended)
-
-1. **Fork/Clone** this repository
-2. **Connect** to Netlify: [netlify.com](https://netlify.com)
-3. **Auto-deploy:** Builds automatically use `npm run build`
-4. **Live in minutes!** 🎉
-
-#### Option 2: Vercel
-
-1. **Import** repository to [vercel.com](https://vercel.com)
-2. **Zero config** needed - automatically detects Vite
-3. **Deploy** with one click
-
-#### Option 3: GitHub Pages
-
-1. **Enable** GitHub Pages in repository settings
-2. **Use** the included GitHub Actions workflow
-3. **Automatic** deployment on push to main
-
-### Manual Deployment
-
-```bash
-# Build for production
-npm run build
-
-# Deploy the 'dist' folder to any static hosting
-# - Netlify: Drag & drop dist folder
-# - Surge: surge dist
-# - Firebase: firebase deploy
-```
 
 ### 🌐 Live Demo
 
@@ -534,6 +498,11 @@ Watch how FreelanceFlow works in real time:
 [🎥 Watch Demo Video](https://drive.google.com/file/d/1IpzaKae2yzcBeSRp38pH1eocaO36ei6E/view?usp=sharing)
 
 ---
+## 📊 Pitch Deck
+
+You can find more details about the project in the presentation below:
+
+![Pitch Deck Preview](https://app.presentations.ai/view/zmF6QX) 
 
 ## �📜 License
 
