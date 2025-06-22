@@ -502,7 +502,7 @@ Watch how FreelanceFlow works in real time:
 
 You can find more details about the project in the presentation below:
 
-![Pitch Deck Preview](https://app.presentations.ai/view/zmF6QX) 
+![Pitch Deck Preview] (https://app.presentations.ai/view/zmF6QX) 
 
 ## �📜 License
 
